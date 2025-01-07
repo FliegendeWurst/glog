@@ -21,3 +21,5 @@ Please refer to project's `documentation <https://google.github.io/glog/>`_.
    :target: https://github.com/google/glog/actions
 .. |Codecov| image:: https://codecov.io/gh/google/glog/branch/master/graph/badge.svg?token=8an420vNju
    :target: https://codecov.io/gh/google/glog
+
+<!-- rerun CI -->
